@@ -36,10 +36,14 @@ nav{
 nav ul{
     list-style-type: none;
     float: right;
+    padding: 10px;
+    margin: 0;
 }
 
 nav ul li{
     float: left;
+    padding: 0 1vw;
+    right: 0;
 }
 
 nav ul li a{
