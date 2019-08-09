@@ -79,16 +79,16 @@ h1{
 
 #ios{
     position: absolute;
-    left: 30%;
-    top: 40%;
+    left: 30vw;
+    top: 42vh;
     width: 10%;
     cursor: pointer;
 }
 
 #android{
     position: absolute;
-    left: 42%;
-    top: 40%;
+    left: 42vw;
+    top: 42vh;
     width: 10%;
     cursor: pointer;
 }
